@@ -1,0 +1,9 @@
+﻿  testGenericSort.cpp
+D:\Study\大一下\c++\代码\unit10\GenericSort\GenericSort.h(8,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\大一下\c++\代码\unit10\GenericSort\testGenericSort.cpp(12): message : 查看对正在编译的函数 模板 实例化“void selectionsort<double>(T [],const size_t)”的引用
+          with
+          [
+              T=double
+          ]
+D:\Study\大一下\c++\代码\unit10\GenericSort\GenericSort.h(11,25): warning C4018: “<”: 有符号/无符号不匹配
+  GenericSort.vcxproj -> D:\Study\大一下\c++\代码\unit10\Debug\GenericSort.exe

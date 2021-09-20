@@ -1,0 +1,5 @@
+﻿  testPropagate.cpp
+D:\Study\大一下\c++\代码\unit9\testPropagate\testPropagate.cpp(19,13): warning C4101: “e”: 未引用的局部变量
+D:\Study\大一下\c++\代码\unit9\testPropagate\testPropagate.cpp(29,13): warning C4101: “e”: 未引用的局部变量
+D:\Study\大一下\c++\代码\unit9\testPropagate\testPropagate.cpp(40,30): warning C4101: “e”: 未引用的局部变量
+  testPropagate.vcxproj -> D:\Study\大一下\c++\代码\unit9\Debug\testPropagate.exe

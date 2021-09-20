@@ -1,0 +1,3 @@
+﻿  testCustomException.cpp
+D:\学习\大一下\c++\代码\uint9\tes\Vec3D.h(21,27): warning C4018: “<”: 有符号/无符号不匹配
+  tes.vcxproj -> D:\学习\大一下\c++\代码\uint9\Debug\testCustomException.exe

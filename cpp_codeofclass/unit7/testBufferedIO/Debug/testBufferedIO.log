@@ -1,0 +1,3 @@
+﻿  testBufferedIO.cpp
+D:\学习\大一下\c++\代码\unit7\testBufferedIO\testBufferedIO.cpp(7,12): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+  testBufferedIO.vcxproj -> D:\学习\大一下\c++\代码\unit7\Debug\testBufferedIO.exe

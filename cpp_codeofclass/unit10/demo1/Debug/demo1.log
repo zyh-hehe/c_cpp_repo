@@ -1,0 +1,3 @@
+﻿  demo1.cpp
+D:\Study\大一下\c++\代码\unit10\demo1\templatedemo.h(10): warning C4172: 返回局部变量或临时变量的地址: op3
+  demo1.vcxproj -> D:\Study\大一下\c++\代码\unit10\Debug\demo1.exe

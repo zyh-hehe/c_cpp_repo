@@ -1,0 +1,6 @@
+﻿  testSelectionSort.cpp
+  SelectionSort.cpp
+D:\Study\大一下\c++\代码\unit10\SelectionSort\SelectionSort.cpp(4,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\大一下\c++\代码\unit10\SelectionSort\SelectionSort.cpp(7,25): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  SelectionSort.vcxproj -> D:\Study\大一下\c++\代码\unit10\Debug\SelectionSort.exe
