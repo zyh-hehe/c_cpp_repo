@@ -1,0 +1,2 @@
+﻿  test2.cpp
+D:\Study\repo\C&C++\test\test2\test2.cpp(64): error C4700: 使用了未初始化的局部变量“k”
