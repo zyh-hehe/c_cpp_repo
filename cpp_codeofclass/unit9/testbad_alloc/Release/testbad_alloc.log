@@ -1,0 +1,2 @@
+﻿  testbad_alloc.cpp
+D:\Study\repo\C&C++\cpp_codeofclass\unit9\testbad_alloc\testbad_alloc.cpp(11): error C2148: 数组的总大小不得超过 0x7fffffff 字节
